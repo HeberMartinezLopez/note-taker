@@ -31,7 +31,7 @@ Step 2: run npm start
 
 ![start code](/public/assets/images/start.png)
 
-Step 3: open a browser and type [http://localhost:3001](http://localhost:3001)
+Step 3: open a link in a browser [Note Taker](https://homework11-529eaa022c39.herokuapp.com/)
 
 Step 4: press button to get started
 
